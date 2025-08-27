@@ -1,6 +1,6 @@
 # README
 
-This is the Git repository for the course "Predictive Maintenance" in WS 2024/25 containing slides, JupyterNotebooks, and a file to set up your conda environment. You find the most recent files here - the links in ELO also redirect to this repository.
+This is the Git repository for the course _Predictive Maintenance_ containing slides, JupyterNotebooks, and a file to set up your conda environment. You find the most recent files here - the links in ELO also redirect to this repository.
 
 ## Setup
 1. Clone this repo
